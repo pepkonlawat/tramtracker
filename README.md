@@ -1,6 +1,9 @@
 # tramtracking
 <pre>
-Database and Software Design project about designing application to tracking Mahidol tram 
+Database and Software Design project about designing application to tracking Mahidol tram (just design concept and UX/UI)
+
+UX/UI design:https://www.figma.com/file/gKtIA8Yl0H0m1IvyR2j2Wv/tramtracker?node-id=0%3A1
+
 -TEAM-
 1.Konlawat       Kathapetch
    -UX/UI design
