@@ -5,7 +5,7 @@ Database and Software Design project about designing application to tracking Mah
 UX/UI design:https://www.figma.com/file/gKtIA8Yl0H0m1IvyR2j2Wv/tramtracker?node-id=0%3A1
 
 -TEAM-
-1.Konlawat       Kathapetch
+1.Konlawat       Khathaphet
    -UX/UI design
    -Presentation
 2.Wasawat        Pengprakhon
