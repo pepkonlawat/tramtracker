@@ -1,4 +1,4 @@
-# tramtracking
+# tramtracker
 <pre>
 Database and Software Design project about designing application to tracking Mahidol tram (just design concept and UX/UI)
 
